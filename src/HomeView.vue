@@ -54,7 +54,7 @@
               href="mailto:teim.it.service@gmail.com"
               class="text-[12px] text-white text-center"
             >
-              teim.it.service@gmail.com
+              tiem.it.service@gmail.com
             </a>
           </p>
         </div>
