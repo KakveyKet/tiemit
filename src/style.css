@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "AKbalthom Freedom Plus";
+  src: url("./assets/AKbalthom Freedom Plus V1.10.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AKbalthom KhmerLer Regular";
+  src: url("./assets/AKbalthom KhmerLer Regular.ttf") format("truetype");
+}
+body {
+  font-family: "AKbalthom Freedom Plus", sans-serif;
+  background-color: #252222;
+}
+p {
+  font-family: "AKbalthom KhmerLer Regular";
+}
