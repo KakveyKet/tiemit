@@ -1,5 +1,15 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="w-full h-screen flex items-center justify-center">
+    <img src="../assets/qr-code.png" alt="" />
   </div>
 </template>
+
+<script>
+export default {
+  setup() {
+    return {};
+  },
+};
+</script>
+
+<style lang="scss" scoped></style>
